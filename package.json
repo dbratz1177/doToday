@@ -1,0 +1,15 @@
+{
+  "name": "do-today",
+  "version": "1.0.0",
+  "description": "A personal scheduling tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Dane Louis Bratz",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0"
+  }
+}
